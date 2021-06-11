@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">View Binding Example</string>
+    <string name="roll_label">Roll</string>
+</resources>
